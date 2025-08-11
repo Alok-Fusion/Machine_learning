@@ -1,0 +1,19 @@
+Create a NumPy array of 10 zeros and replace the fifth element with 1.
+
+Generate an array of integers from 10 to 50 and display only even numbers.
+
+Create a 3x3 identity matrix using NumPy.
+
+Generate a 5x5 matrix with random values and find the minimum and maximum values.
+
+Create a NumPy array with 20 linearly spaced values between 0 and 5.
+
+Reshape a 1D array of 16 elements into a 4x4 matrix and print the transpose of it.
+
+Create two NumPy arrays: A of shape (3,3) and B of shape (3,3). Perform element-wise addition, subtraction, and matrix multiplication.
+
+Given an array of 10 random numbers, replace all values greater than the mean with 1 and others with 0.
+
+Create a 6x6 array with values 1,2,3,4 just below the main diagonal.
+
+Given a 2D array, calculate the sum of each column and each row separately.
